@@ -18,21 +18,20 @@ This project analyzes how sentiment extracted from user review text aligns (or m
 
 ## Repository Structure
 ```
-.
-├── data/                      # Raw + combined review datasets
+├── data/                                  # Raw + combined review datasets
 │   ├── app_reviews.csv
 │   ├── combined_reviews.csv
 │   ├── movie_reviews.csv
 │   └── product_reviews.csv
-├── visualizations/           # Final project visuals (PNG)
+├── visualizations/                        # Final project visuals (PNG)
 │   ├── mismatch_by_source.png
 │   ├── polarity_by_rating_boxplot.png
 │   ├── rating_distribution_by_source.png
 │   ├── sentiment_polarity_distribution.png
 │   └── sentiment_vs_rating.png
 ├── 01_final_notebook.ipynb               # Jupyter Notebook with full code
-├── 02_final_report.pdf             # Written report (PDF)
-└── README.md                    # Project overview (this file)
+├── 02_final_report.pdf                   # Written report (PDF)
+└── README.md                             # Project overview (this file)
 ```
 
 ---
