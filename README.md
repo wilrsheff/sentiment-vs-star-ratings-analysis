@@ -17,6 +17,7 @@ This project analyzes how sentiment extracted from user review text aligns (or m
 ---
 
 ## Repository Structure
+```
 .
 ├── data/                      # Raw + combined review datasets
 │   ├── app_reviews.csv
@@ -32,6 +33,7 @@ This project analyzes how sentiment extracted from user review text aligns (or m
 ├── 01_final_notebook.ipynb               # Jupyter Notebook with full code
 ├── 02_final_report.pdf             # Written report (PDF)
 └── README.md                    # Project overview (this file)
+```
 
 ---
 
